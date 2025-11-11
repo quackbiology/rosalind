@@ -1,6 +1,6 @@
 # INI5 Working with Files
 # Given: A file containing at most 1000 lines.
-# A file containing all the even-numbered lines from the original file. Assume 1-based numbering of lines.
+# Return: A file containing all the even-numbered lines from the original file. Assume 1-based numbering of lines.
 
 # Open the sample file and assign to object 'sample'. Open an output file to write result.
 sample = open('rosalind_ini5.txt', 'r')
